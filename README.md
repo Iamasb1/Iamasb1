@@ -13,13 +13,13 @@ Skills & Tools
 
 Featured Projects
 
-1. Bike Buyers Analysis — Excel
+1. Bike Buyers Analysis using Excel
 
 Analyzed customer demographics and purchasing behavior using Excel. Cleaned and organized data, created PivotTables, and built a dashboard to explore patterns in bike purchases.
 
 View Excel Project
 
-2. Layoffs Data Analysis — SQL
+2. Layoffs Data Analysis using SQL
 
 Used MySQL to clean and explore global company layoffs data. Practiced data cleaning, aggregations, CTEs, window functions, and ranking to investigate layoff trends.
 
